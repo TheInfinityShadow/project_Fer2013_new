@@ -1,0 +1,5 @@
+touch data/train/.gitkeep
+touch data/test/.gitkeep
+touch models/.gitkeep
+touch docs/.gitkeep
+touch tests/.gitkeep
